@@ -36,6 +36,7 @@ Since 2019 (November), I am an assistant professor at the [Department of Informa
 ### Patents
 - [Power interrupt immune software execution](https://patents.google.com/patent/WO2020005058A1/), 2020 
 - [A method for forming a user interface](https://patents.google.com/patent/GB2444670B), 2006 
+- [Computing system comprising a timekeeping circuit and method for timekeeping](https://research.tudelft.nl/en/publications/computing-system-comprising-a-timekeeping-circuit-and-method-for-)
 
 ### Project Reviewer/Panel Member
 - External Reviewer, Chist-Era Call 2020
