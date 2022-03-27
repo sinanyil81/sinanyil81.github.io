@@ -1,0 +1,524 @@
+@article{yildirim2007design,
+  title={Design and implementation of a software presenting information in DVB subtitles in various forms},
+  author={Yildirim, K Sinan and Ugur, Aybars and Kinaci, A Cumhur},
+  journal={IEEE Transactions on Consumer Electronics},
+  volume={53},
+  number={4},
+  pages={1656--1660},
+  year={2007},
+  publisher={IEEE}
+}
+
+@inproceedings{yildirim2008optimizing,
+  title={Optimizing coverage in a k-covered and connected sensor network using genetic algorithms},
+  author={Yildirim, Kas{\i}m Sinan and Kalayci, Tahir Emre and Ugur, Aybars},
+  booktitle={Proceedings of the 9th WSEAS international conference on evolutionary computing},
+  pages={21--26},
+  year={2008},
+  organization={World Scientific and Engineering Academy and Society (WSEAS)}
+}
+
+@inproceedings{yildirim2007new,
+  title={A New Operating System For Embedded Systems: eGIS},
+  author={Yildirim, Sinan and Kantarci, Aylin},
+  booktitle={2007 IEEE 15th Signal Processing and Communications Applications},
+  pages={1--4},
+  year={2007},
+  organization={IEEE}
+}
+
+@article{yildirim2012drift,
+  title={Drift Estimation Using Pairwise Slope With Minimum Variance In Wireless Sensor Networks},
+  author={YILDIRIM, Kas{\i}m Sinan and KANTARCI, Aylin},
+  journal={Ad Hoc Networks},
+  year={2012},
+  publisher={Elsevier}
+}
+
+@inproceedings{yildirim2011lightweight,
+  title={A lightweight method for time synchronization in wireless sensor networks},
+  author={Y{\i}ld{\i}r{\i}m, Kasim Sinan and Kantarc{\i}, Aylin},
+  booktitle={2011 IEEE 19th Signal Processing and Communications Applications Conference (SIU)},
+  pages={789--792},
+  year={2011},
+  organization={IEEE}
+}
+
+@article{yildirim2014external,
+  title={External gradient time synchronization in wireless sensor networks},
+  author={Yildirim, Kasim Sinan and Kantarci, Aylin},
+  journal={IEEE Transactions on Parallel and Distributed Systems},
+  volume={25},
+  number={3},
+  pages={633--641},
+  year={2014},
+  publisher={IEEE}
+}
+
+@article{yildirim2014adaptive,
+  title={Adaptive Synchronization of Robotic Sensor Networks},
+  author={Y{\i}ld{\i}r{\i}m, Kas{\i}m Sinan and G{\"u}rcan, {\"O}nder},
+  journal={arXiv preprint arXiv:1410.7582},
+  year={2014}
+}
+
+@article{yildirim2014efficient,
+  title={Efficient and Discrete Gradient Synchronization},
+  author={Y{\i}ld{\i}r{\i}m, Kas{\i}m Sinan},
+  journal={IEEE Communications Letters},
+  volume={18},
+  number={11},
+  pages={1903--1906},
+  year={2014},
+  publisher={IEEE}
+}
+
+@article{kalayci2007maximizing,
+  title={Maximizing coverage in a connected and k-covered wireless sensor network using genetic algorithms},
+  author={Kalayci, Tahir Emre and Yildirim, Kasim Sinan and Ugur, Aybars},
+  journal={International Journal of Applied Mathematics and Informatics},
+  volume={1},
+  number={3},
+  pages={123--130},
+  year={2007}
+}
+
+@article{doner2010kablosuz,
+  title={Kablosuz Alg{\i}lay{\i}c{\i} A{\u{g}}lar{\i} ile Yang{\i}n Tespit Sistemi},
+  author={D{\"o}ner, {\c{C}}a{\u{g}}da{\c{s}} and {\c{S}}im{\c{s}}ek, G{\"o}khan and Y{\i}ld{\i}r{\i}m, K Sinan and Kantarc{\i}, Aylin},
+  journal={G{\"o}m{\"u}l{\"u} Sistemler ve Uygulamalar{\i} Sempozyumu G{\"o}msis, {\.I}stanbul Teknik {\"U}niversitesi, {\.I}stanbul},
+  year={2010}
+}
+
+@article{doner39forest,
+  title={Forest Fire Detection with Wireless Sensor Networks},
+  author={D{\"o}ner, {\c{C}}a{\u{g}}da{\c{s}} and {\c{S}}im{\c{s}}ek, G{\"o}khan and Y{\i}ld{\i}r{\i}m, Kas{\i}m Sinan and Kantarc{\i}, Aylin},
+  journal={Computer Engineering Department, Ege University},
+  volume={39},
+  number={1}
+}
+
+@article{bayrakdar2009kablosuz,
+  title={Kablosuz Duyarga A{\u{g}}lar{\i}nda {\.I}ki Temel Ara{\c{s}}t{\i}rma Alan{\i}: Saat E{\c{s}}zamanlamas{\i} ve Topoloji Kontrol{\"u}},
+  author={Bayrakdar, Yonca and Y{\i}ld{\i}r{\i}m, Kas{\i}m Sinan and Kantarc{\i}, Aylin},
+  journal={Akademik Bili{\c{s}}im’09},
+  year={2009}
+}
+
+@article{yildirimclock,
+  title={Clock Synchronization in Distributed Systems},
+  author={Y{\i}ld{\i}r{\i}m, Kas{\i}m Sinan and Kantarc{\i}, Aylin}
+}
+
+@article{yildirim2014proportional,
+  title={Proportional-Integral Clock Synchronization in Wireless Sensor Networks},
+  author={Y{\i}ld{\i}r{\i}m, Kas{\i}m Sinan and Carli, Ruggero and Schenato, Luca},
+  journal={arXiv preprint arXiv:1410.8176},
+  year={2014}
+}
+
+@article{yildirim2014time,
+  title={Time synchronization based on slow-flooding in wireless sensor networks},
+  author={Yildirim, Kasim Sinan and Kantarci, Aylin},
+  journal={IEEE Transactions on Parallel and Distributed Systems},
+  volume={25},
+  number={1},
+  pages={244--253},
+  year={2014},
+  publisher={IEEE}
+}
+
+@inproceedings{yildirim2015adaptive,
+  title={Adaptive control-based clock synchronization in wireless sensor networks},
+  author={Y{\i}ld{\i}r{\i}m, Kas{\i}m Sinan and Carli, Ruggero and Schenato, Luca},
+  booktitle={2015 European Control Conference (ECC)},
+  pages={2806--2811},
+  year={2015},
+  organization={IEEE}
+}
+
+@inproceedings{agliamzanov2015robust,
+  title={Robust and Efficient Self-Adaptive Position Tracking in Wireless Embedded Systems},
+  author={Agliamzanov, Ramil and Belbachir, Assia and Yildirim, Kasim Sinan and others},
+  booktitle={2015 8th IFIP Wireless and Mobile Networking Conference (WMNC)},
+  pages={152--159},
+  year={2015},
+  organization={IEEE}
+}
+
+@article{yildirim2016synchronization,
+  title={On the synchronization of intermittently powered wireless embedded systems},
+  author={Y{\i}ld{\i}r{\i}m, Kas{\i}m Sinan and Aantjes, Henko and Majid, Amjad Yousef and Pawe{\l}czak, Przemys{\l}aw},
+  journal={arXiv preprint arXiv:1606.01719},
+  year={2016}
+}
+
+@inproceedings{gurcan2013self,
+  title={Self-organizing time synchronization of wireless sensor networks with adaptive value trackers},
+  author={G{\"u}rcan, {\"O}nder and Yildirim, K Sinan},
+  booktitle={2013 IEEE 7th International Conference on Self-Adaptive and Self-Organizing Systems},
+  pages={91--100},
+  year={2013},
+  organization={IEEE}
+}
+
+@article{yildirim2014efficient,
+  title={Efficient time synchronization in a wireless sensor network by adaptive value tracking},
+  author={Y{\i}ld{\i}r{\i}m, Kas{\i}m Sinan and G{\"u}rcan, {\"O}nder},
+  journal={IEEE Transactions on wireless communications},
+  volume={13},
+  number={7},
+  pages={3650--3664},
+  year={2014},
+  publisher={IEEE}
+}
+
+@phdthesis{yildirim2005gomulu,
+  title={G{\"o}m{\"u}l{\"u} Sistemler {\.I}{\c{c}}in Tasar{\i}m Desenleri Kullanarak Nesneye Y{\"o}nelik Ger{\c{c}}ek Zamanl{\i} Bir Mikro{\c{c}}ekirdek Tasar{\i}m{\i}},
+  author={Y{\i}ld{\i}r{\i}m, KS},
+  year={2005},
+  school={Y{\"u}ksek Lisans Tezi, Ege {\"U}niversitesi Bilgisayar M{\"u}hendisli{\u{g}}i B{\"o}l{\"u}m{\"u}}
+}
+
+@article{kantarcidesign,
+  title={Design and Implementation of an Object Oriented and Real-Time Microkernel for Embedded Systems Using Design Patterns},
+  author={KANTARCI, Kasim Sinan YILDIRIM Aylin}
+}
+
+@article{liu2016safe,
+  title={Safe and secure wireless power transfer networks: challenges and opportunities in RF-based systems},
+  author={Liu, Qingzhi and Y{\i}ld{\i}r{\i}m, Kas{\i}m Sinan and Pawe{\l}czak, Przemys{\l}aw and Warnier, Martijn},
+  journal={IEEE Communications Magazine},
+  volume={54},
+  number={9},
+  pages={74--79},
+  year={2016},
+  publisher={IEEE}
+}
+
+@article{yildirim2016gradient,
+  title={Gradient Descent Algorithm Inspired Adaptive Time Synchronization in Wireless Sensor Networks},
+  author={Y{\i}ld{\i}r{\i}m, Kas{\i}m Sinan},
+  journal={IEEE Sensors Journal},
+  volume={16},
+  number={13},
+  pages={5463--5470},
+  year={2016},
+  publisher={IEEE}
+}
+
+@article{yildirim2018adaptive,
+  title={Adaptive proportional--integral clock synchronization in wireless sensor networks},
+  author={Y{\i}ld{\i}r{\i}m, Kas{\i}m Sinan and Carli, Ruggero and Schenato, Luca},
+  journal={IEEE Transactions on Control Systems Technology},
+  volume={26},
+  number={2},
+  pages={610--623},
+  year={2018},
+  publisher={IEEE}
+}
+
+@inproceedings{van2017self,
+  title={Self Adaptive Safe Provisioning of Wireless Power using DCOPs},
+  author={van Leeuwen, Coen and Y{\i}ld{\i}r{\i}m, Kas{\i}m Sinan and Pawe{\l}czak, Przemys{\l}aw},
+  booktitle={11th IEEE International Conference on Self-Adaptive and Self-Organizing Systems},
+  year={2017}
+}
+
+@article{yildirim2012clock,
+  title={CLOCK SYNCHRONIZATION IN WIRELESS SENSOR NETWORKS},
+  author={YILDIRIM, Kas{\i}m Sinan},
+  year={2012}
+}
+
+@article{alizai2017doctoral,
+  title={Doctoral School on Transiently Powered Computing},
+  author={Alizai, Muhammad Hamad and Beutel, Jan and Bitsch, Jo Agila and Landsiedel, Olaf and Mottola, Luca and Pawe{\l}czak, Przemys{\l}aw and Wehrle, Klaus and Y{\i}ld{\i}r{\i}m, Kas{\i}m Sinan},
+  journal={IDEA League},
+  year={2017}
+}
+
+@article{yildirim2017distributed,
+  title={Distributed Control of Wireless Power Transfer Subject to Safety Constraints},
+  author={Y{\i}ld{\i}r{\i}m, Kas{\i}m Sinan and Carli, Ruggero and Schenato, Luca},
+  journal={IFAC-PapersOnLine},
+  volume={50},
+  number={1},
+  pages={13210--13215},
+  year={2017},
+  publisher={Elsevier}
+}
+
+@inproceedings{yildirim2017distributed,
+  title={A distributed dual-ascent approach for power control of wireless power transfer networks},
+  author={Y{\i}ld{\i}r{\i}m, Kas{\i}m Sinan and Carli, Ruggero and Schenato, Luca and Todescato, Marco},
+  booktitle={2017 IEEE 56th Annual Conference on Decision and Control (CDC)},
+  pages={3507--3512},
+  year={2017},
+  organization={IEEE}
+}
+
+@article{yildirim2018safe,
+  title={Safe distributed control of wireless power transfer networks},
+  author={Y{\i}ld{\i}r{\i}m, Kasim Sinan and Carli, Ruggero and Schenato, Luca},
+  journal={IEEE Internet of Things Journal},
+  volume={6},
+  number={1},
+  pages={1267--1275},
+  year={2018},
+  publisher={IEEE}
+}
+
+@article{yildirim2018kablosuz,
+  title={KABLOSUZ ALGILAYICI A{\u{G}}LARINDA ALICI-VER{\.I}C{\.I}LER{\.I}N ORANSAL-{\.I}NTEGRAL DENETLEY{\.I}C{\.I}LER {\.I}LE G{\"O}REV D{\"O}NG{\"U}S{\"U}},
+  author={YILDIRIM, Kas{\i}m Sinan},
+  journal={Dokuz Eyl{\"u}l {\"U}niversitesi M{\"u}hendislik Fak{\"u}ltesi Fen ve M{\"u}hendislik Dergisi},
+  volume={20},
+  number={59},
+  pages={435--448},
+  year={2018}
+}
+
+@article{yildirim2018synchronization,
+  title={On the synchronization of computational rfids},
+  author={Y{\i}ld{\i}r{\i}m, Kas{\i}m Sinan and Aantjes, Henko and Pawe{\l}czak, Przemys{\l}aw and Majid, Amjad Yousef},
+  journal={IEEE Transactions on Mobile Computing},
+  volume={18},
+  number={9},
+  pages={2147--2159},
+  year={2018},
+  publisher={IEEE}
+}
+
+@inproceedings{yildirim2018ink,
+  title={InK: Reactive Kernel for Tiny Batteryless Sensors},
+  author={Y{\i}ld{\i}r{\i}m, Kas{\i}m Sinan and Majid, Amjad Yousef and Patoukas, Dimitris and Schaper, Koen and Pawe{\l}czak, Przemys{\l}aw and Hester, Josiah},
+  booktitle={Proceedings of the 16th ACM Conference on Embedded Networked Sensor Systems},
+  pages={41--53},
+  year={2018},
+  organization={ACM}
+}
+
+@inproceedings{delle2018backing,
+  title={Backing out of backscatter for intermittent wireless networks},
+  author={Delle Donne, Carlo and Yildirim, Kasim Sinan and Majid, Amjad Yousef and Hester, Josiah and Pawe{\l}czak, Przemys{\l}aw},
+  booktitle={Proceedings of the 6th International Workshop on Energy Harvesting \& Energy-Neutral Sensing Systems},
+  pages={38--40},
+  year={2018}
+}
+
+@inproceedings{patoukas2018feasibility,
+  title={Feasibility of multi-tenancy on intermittent power},
+  author={Patoukas, Dimitris and Yildirim, Kasim Sinan and Majid, Amjad Yousef and Hester, Josiah and Pawe{\l}czak, Przemys{\l}aw},
+  booktitle={Proceedings of the 6th International Workshop on Energy Harvesting \& Energy-Neutral Sensing Systems},
+  pages={26--31},
+  year={2018},
+  organization={ACM}
+}
+
+@inproceedings{carli2018multi,
+  title={Multi-agent distributed optimization algorithms for partition-based linear programming (LP) problems},
+  author={Carli, Ruggero and Y{\'\i}ld{\'\i}r{\'\i}m, Kasim Sinan and Schenato, Luca},
+  booktitle={2018 European Control Conference (ECC)},
+  pages={1462--1467},
+  year={2018},
+  organization={IEEE}
+}
+
+@article{yildirim2010kablosuz,
+  title={Kablosuz Alg{\i}lay{\i}c{\i} A{\u{g}}lar{\i} {\.I}{\c{c}}in TinyOS {\.I}le Uygulama Geli{\c{s}}tirme},
+  author={YILDIRIM, Kas{\i}m Sinan and KANTARCI, Aylin},
+  year={2010}
+}
+
+@inproceedings{durmaz2019puremem,
+  title={PureMEM: a structured programming model for transiently powered computers},
+  author={Durmaz, Caglar and Yildirim, Kasim Sinan and Kardas, Geylani},
+  booktitle={Proceedings of the 34th ACM/SIGAPP Symposium on Applied Computing},
+  pages={1544--1551},
+  year={2019},
+  organization={ACM}
+}
+
+@article{majidnuna,
+  title={Nuna: Where Mobility and Spectrum Databases Meet},
+  author={Majid, Amjad Yousef and Pawe{\l}czak, Przemys{\l}aw and Brouwers, Niels and Y{\i}ld{\i}r{\i}m, Kas{\i}m Sinan and Langendoen, Koen}
+}
+
+@inproceedings{yildirim2019distributed,
+  title={On Distributed Sensor Fusion in Batteryless Intermittent Networks},
+  author={Yildirim, Kasim Sinan and Pawelczak, Przemyslaw},
+  booktitle={2019 15th International Conference on Distributed Computing in Sensor Systems (DCOSS)},
+  pages={495--501},
+  year={2019},
+  organization={IEEE}
+}
+
+@inproceedings{majid2019multi,
+  title={Multi-hop backscatter tag-to-tag networks},
+  author={Majid, Amjad Yousef and Jansen, Michel and Delgado, Guillermo Ortas and Yildirim, Kasim Sinan and Pawe{\l}{\l}zak, Przemys{\l}aw},
+  booktitle={IEEE INFOCOM 2019-IEEE Conference on Computer Communications},
+  pages={721--729},
+  year={2019},
+  organization={IEEE}
+}
+
+@inproceedings{ccuruk2019accuracy,
+  title={On the Accuracy of Network Synchronization Using Persistent Hourglass Clocks},
+  author={{\c{C}}{\"u}r{\"u}k, Eren and Y{\i}ld{\i}r{\i}m, Kasim Sinan and Pawelczak, Przemyslaw and Hester, Josiah},
+  booktitle={Proceedings of the 7th International Workshop on Energy Harvesting \& Energy-Neutral Sensing Systems},
+  pages={35--41},
+  year={2019},
+  organization={ACM}
+}
+
+@article{majid2020dynamic,
+  title={Dynamic Task-based Intermittent Execution for Energy-harvesting Devices},
+  author={Majid, Amjad Yousef and Donne, Carlo Delle and Maeng, Kiwan and Colin, Alexei and Yildirim, Kasim Sinan and Lucia, Brandon and Pawe{\l}czak, Przemys{\l}aw},
+  journal={ACM Transactions on Sensor Networks (TOSN)},
+  volume={16},
+  number={1},
+  pages={1--24},
+  year={2020},
+  publisher={ACM New York, NY, USA}
+}
+
+@inproceedings{de2020reliable,
+  title={Reliable Timekeeping for Intermittent Computing},
+  author={de Winkel, Jasper and Delle Donne, Carlo and Yildirim, Kasim Sinan and Pawe{\l}czak, Przemys{\l}aw and Hester, Josiah},
+  booktitle={Proceedings of the Twenty-Fifth International Conference on Architectural Support for Programming Languages and Operating Systems},
+  pages={53--67},
+  year={2020}
+}
+
+@inproceedings{kortbeek2020time,
+  title={Time-sensitive Intermittent Computing Meets Legacy Software},
+  author={Kortbeek, Vito and Yildirim, Kasim Sinan and Bakar, Abu and Sorber, Jacob and Hester, Josiah and Pawe{\l}czak, Przemys{\l}aw},
+  booktitle={Proceedings of the Twenty-Fifth International Conference on Architectural Support for Programming Languages and Operating Systems},
+  pages={85--99},
+  year={2020}
+}
+
+@article{liu2020perpetual,
+  title={Perpetual Bluetooth Communications for the IoT},
+  author={Liu, Qingzhi and IJntema, Wieger and Drif, Anass and Pawe{\l}czak, Przemys{\l}aw and Zuniga, Marco and Y{\i}ld{\i}r{\i}m, Kas{\i}m Sinan},
+  journal={IEEE Sensors Journal},
+  volume={21},
+  number={1},
+  pages={829--837},
+  year={2020},
+  publisher={IEEE}
+}
+
+@inproceedings{mulayim2020taskify,
+  title={Taskify: An Integrated Development Environment to Develop and Debug Intermittent Software for the Batteryless Internet of Things},
+  author={M{\"u}layim, Murat and Goknil, Arda and Y{\i}ld{\i}r{\i}m, Kas{\i}m Sinan},
+  booktitle={2020 16th International Conference on Distributed Computing in Sensor Systems (DCOSS)},
+  pages={348--355},
+  year={2020},
+  organization={IEEE}
+}
+
+@inproceedings{torrisi2020zero,
+  title={Zero Power Energy-Aware Communication for Transiently-Powered Sensing Systems},
+  author={Torrisi, Alessandro and Brunelli, Davide and Yildirim, Kasim Sinan},
+  booktitle={Proceedings of the 8th International Workshop on Energy Harvesting and Energy-Neutral Sensing Systems},
+  pages={43--49},
+  year={2020}
+}
+
+@inproceedings{yildiz2020defragmenting,
+  title={Defragmenting Energy Storage in Batteryless Sensing Devices},
+  author={Yildiz, Eren and Yildirim, Kasim Sinan},
+  booktitle={Proceedings of the 8th International Workshop on Energy Harvesting and Energy-Neutral Sensing Systems},
+  pages={36--42},
+  year={2020}
+}
+
+@article{kortbeek2020bfree,
+  title={BFree: Enabling Battery-free Sensor Prototyping with Python},
+  author={Kortbeek, Vito and Bakar, Abu and Cruz, Stefany and Yildirim, Kasim Sinan and Pawe{\l}czak, Przemys{\l}aw and Hester, Josiah},
+  journal={Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies},
+  volume={4},
+  number={4},
+  pages={1--39},
+  year={2020},
+  publisher={ACM New York, NY, USA}
+}
+
+@inproceedings{torrisi2020enabling,
+  title={Enabling Transiently-Powered Communication via Backscattering Energy State Information},
+  author={Torrisi, Alessandro and Y{\i}ld{\i}r{\i}m, Kas{\i}m Sinan and Brunelli, Davide},
+  booktitle={International Conference on Applications in Electronics Pervading Industry, Environment and Society},
+  pages={192--201},
+  year={2020},
+  organization={Springer}
+}
+
+@article{yildirim2020power,
+  title={Power interrupt immune software execution},
+  author={Yildirim, Kasim Sinan and Majid, Amjad and Pawe{\l}czak, Przemys{\l}aw},
+  year={2020}
+}
+
+@article{bakar2021rehash,
+  title={REHASH: A Flexible, Developer Focused, Heuristic Adaptation Platform for Intermittently Powered Computing},
+  author={Bakar, Abu and Ross, Alexander G and Yildirim, Kasim Sinan and Hester, Josiah},
+  journal={Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies},
+  volume={5},
+  number={3},
+  pages={1--42},
+  year={2021},
+  publisher={ACM New York, NY, USA}
+}
+
+@inproceedings{torrisi2021autonomous,
+  title={Autonomous Energy Status Sharing and Synchronization for Batteryless Sensor Networks},
+  author={Torrisi, Alessandro and Y{\i}ld{\i}r{\i}m, Kas{\i}m Sinan and Brunelli, Davide},
+  booktitle={Proceedings of the 19th ACM Conference on Embedded Networked Sensor Systems},
+  pages={569--571},
+  year={2021}
+}
+
+@inproceedings{yildiz2021persistent,
+  title={Persistent Timekeeping Using Harvested Power Measurements},
+  author={Y{\i}ld{\i}z, Eren and Y{\i}ld{\i}r{\i}m, Kas{\i}m Sinan},
+  booktitle={Proceedings of the 19th ACM Conference on Embedded Networked Sensor Systems},
+  pages={572--574},
+  year={2021}
+}
+
+@article{durmaz2021virtualizing,
+  title={Virtualizing Intermittent Computing},
+  author={Durmaz, Caglar and Yildirim, Kasim Sinan and Kardas, Geylani},
+  journal={arXiv preprint arXiv:2111.14249},
+  year={2021}
+}
+
+@article{de2021computing,
+  title={Computing system comprising a timekeeping circuit and method for timekeeping},
+  author={de Winkel, J and Delle Donne, C and Yildirim, Kasim Sinan and Pawe{\l}czak, Przemys{\l}aw and Hester, Josiah},
+  year={2021}
+}
+
+@article{erata2022etap,
+  title={ETAP: Energy-aware Timing Analysis of Intermittent Programs},
+  author={Erata, Ferhat and Goknil, Arda and Y{\i}ld{\i}z, Eren and Y{\i}ld{\i}r{\i}m, Kas{\i}m Sinan and Piskac, Ruzika and Szfer, Jakup and Sezgin, G{\"o}k{\c{c}}in},
+  journal={arXiv preprint arXiv:2201.11433},
+  year={2022}
+}
+
+@article{ruffini2022norm,
+  title={NORM: An FPGA-based Non-volatile Memory Emulation Framework for Intermittent Computing},
+  author={Ruffini, Simone and Caronti, Luca and Y{\i}ld{\i}r{\i}m, Kas{\i}m Sinan and Brunelli, Davide},
+  journal={arXiv preprint arXiv:2202.07948},
+  year={2022}
+}
+
+@article{torrisi2022reliable,
+  title={Reliable Transiently-Powered Communication},
+  author={Torrisi, Alessandro and Y{\i}ld{\i}r{\i}m, Kas{\i}m Sinan and Brunelli, Davide},
+  journal={IEEE Sensors Journal},
+  year={2022},
+  publisher={IEEE}
+}
