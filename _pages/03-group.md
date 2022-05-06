@@ -25,10 +25,12 @@ Check [https://tinysystems.github.io/](https://tinysystems.github.io/) for our o
 - [Eren Yıldız](https://erenyildiz33.github.io/) (co-supervisor)
 - [Çağlar Durmaz](https://www.researchgate.net/profile/Caglar_Durmaz) (co-supervisor - together with [Ege-SERLab](http://akademik.ube.ege.edu.tr/serlab/))
 
+## Master Students
+- [Luca Caronti](https://github.com/lucacaronti)
+- 
 ## Undergraduates
 - [Lijun Chen](https://github.com/chenlijun99)
 - [Simone Ruffini](https://simoneruffini.github.io/)
-- [Luca Caronti](https://github.com/lucacaronti)
 
 ## Past Members
 - [Murat Mülayim](https://www.linkedin.com/in/mulayimmurat/) (Master Thesis)  
