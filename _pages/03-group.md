@@ -14,20 +14,21 @@ Our current research activities include:
 - Transiently-powered networking 
 - Learning and inference on the batteryless edge.
 
-### <i class="fab fa-github"></i> Github Repo 
-Check [https://github.com/tinysystems](https://github.com/tinysystems) for our open source code releases related to our research.
+Check [https://tinysystems.github.io/](https://tinysystems.github.io/) for our open source code releases related to our research.
 
 ---
 
 ## PhD Candidates
 - [Khakim Akhunov](https://webapps.unitn.it/du/en/Persona/PER0230856)
 - [Muath Abu Lebdeh](https://webapps.unitn.it/du/it/Persona/PER0242263)
-- [Jiaru Lin]()
+- [Jiaru Lin](https://webapps.unitn.it/du/en/Persona/PER0242736)
 - [Eren Yıldız](https://erenyildiz33.github.io/) (co-supervisor)
 - [Çağlar Durmaz](https://www.researchgate.net/profile/Caglar_Durmaz) (co-supervisor - together with [Ege-SERLab](http://akademik.ube.ege.edu.tr/serlab/))
 
 ## Undergraduates
 - [Lijun Chen](https://github.com/chenlijun99)
+- [Simone Ruffini](https://simoneruffini.github.io/)
+- [Luca Caronti](https://github.com/lucacaronti)
 
 ## Past Members
 - [Murat Mülayim](https://www.linkedin.com/in/mulayimmurat/) (Master Thesis)  
