@@ -23,6 +23,8 @@ I am interested in the research problems of low-power and networked embedded sen
 
 You can find more info about me [here](info/index.html). Source codes I have developed in the past are [here](/projects/index.html).
 
+You can check [ENT-Lab Research Group](https://sinanyil81.github.io/entlab/) to see the brilliant researchers I am working together and our software releases.
+
 {% comment %}
 Email:<a href='mailto:sinanyil81@gmail.com'>sinanyil81@gmail.com</a>, <a href='mailto:kasimsinan.yildirim@unitn.it.com'>kasimsinan.yildirim@unitn.it.com</a>
 Phone: +39 0461 283590
