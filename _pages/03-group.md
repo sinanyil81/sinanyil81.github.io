@@ -27,7 +27,7 @@ Check [https://tinysystems.github.io/](https://tinysystems.github.io/) for our o
 
 ## Master Students
 - [Luca Caronti](https://github.com/lucacaronti)
-- 
+
 ## Undergraduates
 - [Lijun Chen](https://github.com/chenlijun99)
 - [Simone Ruffini](https://simoneruffini.github.io/)
