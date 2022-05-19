@@ -7,12 +7,13 @@ horizontal: false
 ---
 
 
-As Embedded and Networked Things Group (ENT-Lab), we do research on hardware and software for networked embedded systems that have resource and energy constraints. We are interested in problems at the intersection of embedded systems, internet of things (IoT), wireless communication and network protocols, self-organizing sensor networks, distributed algorithms, operating systems/run-times and many more. 
+As Embedded and Networked Things Group (ENT-Lab), we aim to identify and solve on the cross-cutting research problems and gaps concerning the hardware and software for networked embedded systems having extreme resource and energy constraints.  We are interested in the problems that are at the intersection of embedded systems, internet of things (IoT), wireless communication and network protocols, self-organizing sensor networks, distributed algorithms, operating systems/run-times and many more.
 
 Our current research activities include:
-- Software and hardware support for intermittent computing
-- Transiently-powered networking 
-- Learning and inference on the batteryless edge.
+- Software systems and programming support for intermittent computing
+- Architectural (hardware) support for intermittent computing
+- Batteryless and intermittent networking
+- Tiny machine learning on the batteryless edge.
 
 Check [https://tinysystems.github.io/](https://tinysystems.github.io/) for our open source code releases related to our research.
 
