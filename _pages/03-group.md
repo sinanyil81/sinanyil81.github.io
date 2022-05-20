@@ -7,7 +7,7 @@ horizontal: false
 ---
 
 
-As Embedded and Networked Things Group (ENT-Lab), we aim to identify and solve on the cross-cutting research problems and gaps concerning the hardware and software for networked embedded systems having extreme resource and energy constraints.  We are interested in the problems that are at the intersection of embedded systems, internet of things (IoT), wireless communication and network protocols, self-organizing sensor networks, distributed algorithms, operating systems/run-times and many more.
+As Embedded and Networked Things Group (ENT-Lab), we aim to explore cross-cutting research problems and gaps concerning the hardware and software for networked embedded systems having extreme resource and energy constraints. We study problems at the intersection of embedded systems, internet of things (IoT), wireless communication and network protocols, self-organizing sensor networks, distributed algorithms, operating systems/run-times and many more.
 
 Our current research activities include:
 - Software systems and programming support for intermittent computing
