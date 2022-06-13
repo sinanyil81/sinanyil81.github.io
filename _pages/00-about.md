@@ -26,7 +26,7 @@ You can find more info about me [here](info/index.html). Source codes I have dev
 You can check [ENT-Lab Research Group](https://sinanyil81.github.io/entlab/) to see the brilliant researchers I am working together and our software releases.
 
 {% comment %}
-Email:<a href='mailto:sinanyil81@gmail.com'>sinanyil81@gmail.com</a>, <a href='mailto:kasimsinan.yildirim@unitn.it.com'>kasimsinan.yildirim@unitn.it.com</a>
+Email:<a href='mailto:sinanyil81@gmail.com'>sinanyil81@gmail.com</a>, <a href='mailto:kasimsinan.yildirim@unitn.it'>kasimsinan.yildirim@unitn.it</a>
 Phone: +39 0461 283590
 
 Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
