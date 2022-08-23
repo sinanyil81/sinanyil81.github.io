@@ -2,7 +2,7 @@
 layout: page
 permalink: /entlab/
 title: ENT-Lab Group
-nav: true
+nav: false
 horizontal: false
 ---
 
