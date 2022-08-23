@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /entlab/
+permalink: https://tinysystems.github.io/
 title: ENT-Lab Group
-nav: false
+nav: true
 horizontal: false
 ---
 
