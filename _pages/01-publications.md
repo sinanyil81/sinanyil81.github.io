@@ -6,6 +6,9 @@ description: publications by categories in reversed chronological order. generat
 years: [2022, 2021, 2020, 2019, 2018, 2017,2016,2015,2014,2013,2012,2011,2010, 2009,2008, 2007]
 nav: true
 ---
+
+Please check my **[GoogleScholar profile](https://scholar.google.com.tr/citations?hl=tr&user=LXUvnL0AAAAJ&view_op=list_works&sortby=pubdate)** for a full list of publications.
+
 {% comment %}
 <style>
 div.bibyear {
@@ -62,8 +65,8 @@ Please check my **[GoogleScholar profile](https://scholar.google.com.tr/citation
 </script>
 <!-- Load of the remote JS which will call the callback function -->
 <script src="https://www.csauthors.net/kasim-sinan-yildirim/embed/bib.js?callback=mycallback"></script>
-{% endcomment %}
     
+        
 <!-- _pages/publications.md -->
 <div class="publications">
     
@@ -71,5 +74,7 @@ Please check my **[GoogleScholar profile](https://scholar.google.com.tr/citation
   <h2 class="year">{{y}}</h2>
   {% bibliography -f papers -q @*[year={{y}}]* %}
 {% endfor %}
+    
+{% endcomment %}
 
 </div>
