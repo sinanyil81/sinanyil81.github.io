@@ -75,6 +75,6 @@ Please check my **[GoogleScholar profile](https://scholar.google.com.tr/citation
   {% bibliography -f papers -q @*[year={{y}}]* %}
 {% endfor %}
     
-{% endcomment %}
-
 </div>
+    
+{% endcomment %}
