@@ -110,6 +110,8 @@ Department of Computer Engineering, Ege University, Izmir, Turkey
 Thesis: [Implementation of 32 Bit Real-Time Protected Mode Operating System](/thesis/Tez.pdf)
 
 ### Past Work Experience
+- 2019 (Nov.) - 2022 (Nov.), *Assistant Professor*  
+[Department of Information Engineering and Computer Science, University of Trento](https://www.disi.unitn.it/), Italy
 - 2017 (Nov.) - 2019 (Nov.), *Assistant Professor*  
 [Department of Computer Engineering, Ege University](https://bilmuh.ege.edu.tr/), Turkey
 - 2017 (Dec.) - 2019, *Research Affiliate*  
