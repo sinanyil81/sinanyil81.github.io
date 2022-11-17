@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 ![me](assets/img/ksy.png){:style="float:right;margin-left:7px;margin-right: 7px;margin-top: 7px;"}
 
-Welcome to my homepage! I am currently an Associate professor  <a href='http://unitn.it'>University of Trento</a>, <a href='http://disi.unitn.it'>Department of Information Engineering and Computer Science</a>. I created this website to share the output of my studies and be reachable. 
+Welcome to my homepage! I am currently an associate professor  <a href='http://unitn.it'>University of Trento</a>, <a href='http://disi.unitn.it'>Department of Information Engineering and Computer Science</a>. I created this website to share the output of my studies and be reachable. 
 
 I am interested in the research problems of low-power and networked embedded sensing systems. Together with my learning partners, we study sensor networks, wireless protocols, self-organizing and distributed algorithms, operating systems/run-times, architectural support, digital design, intermittent computing, and tiny machine learning. I am a member of [HIPEAC](https://www.hipeac.net/) community.
 
