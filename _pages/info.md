@@ -6,7 +6,7 @@ description:
 nav: false
 ---
 
-Since 2019 (November), I am an assistant professor at the [Department of Information Engineering and Computer Science, University of Trento](https://www.disi.unitn.it/), Italy. I have Italian national *Scientific Habilitation* for the role of Associate Professor (09/H1 Information processing Systems) and also the rank of *Associate Professor* from Turkish High Education Council.
+Since 2022 (November), I am an associate professor at the [Department of Information Engineering and Computer Science, University of Trento](https://www.disi.unitn.it/), Italy. 
 
 ### Supervised Thesis
   - Murat Mülayim, [Fast and Bug-free Application Development For Intermittently-Powered Devices](.), *Master Thesis*, Ege University, 2020 (supervisor)     
@@ -110,6 +110,8 @@ Department of Computer Engineering, Ege University, Izmir, Turkey
 Thesis: [Implementation of 32 Bit Real-Time Protected Mode Operating System](/thesis/Tez.pdf)
 
 ### Past Work Experience
+I have Italian national *Scientific Habilitation* for the role of Associate Professor (09/H1 Information processing Systems) and also the rank of *Associate Professor* from Turkish High Education Council. 
+
 - 2019 (Nov.) - 2022 (Nov.), *Assistant Professor*  
 [Department of Information Engineering and Computer Science, University of Trento](https://www.disi.unitn.it/), Italy
 - 2017 (Nov.) - 2019 (Nov.), *Assistant Professor*  
