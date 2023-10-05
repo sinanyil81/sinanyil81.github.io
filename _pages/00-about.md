@@ -62,7 +62,10 @@ Please check my [**`GoogleScholar`**](https://scholar.google.com.tr/citations?hl
 - Vito Koortbek (co-advised with Przemyslaw Pawelczak), MSc, *Dependable Dynamic Checkpoints for Batteryless Devices*, 2019
 - Michel Jansen (co-advised with Przemyslaw Pawelczak), MSc, *Backscatter Tag-to-Tag Network* 2017
 
----
+### Honours and Awards
+- `Best paper runner-up`, *Zero Power Energy-Aware Communication for Transiently-Powered Sensing Systems*, ENSsys'20. 
+- `Best Paper Award`, *Self Adaptive Safe Provisioning of Wireless Power using DCOPs* SASO'17, 
+- `Supervisor Award`, 3rd Place, Undergraduate Students Software Projects Competition TÜBİTAK (Turkish Research Foundation)-BİDEB 2242, 2014 
 
 ### Academic Service
 
