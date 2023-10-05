@@ -51,24 +51,16 @@ Please check my [**GoogleScholar**](https://scholar.google.com.tr/citations?hl=t
 - InK: Reactive Kernel for Tiny Batteryless Sensors, Yıldırım, Kasım Sinan, Majid, Amjad Yousef, Patoukas, Dimitris, Schaper, Koen, Pawełczak, Przemysław, and Hester, Josiah, *`SenSys'18`*
     
 
-### Thesis Supervision 
+### Supervised Thesis
 
-#### PhD Students
-- Khakim Akhunov, *Topic: Systems Support for Multicore Intermittent Computing*
-- Muath Abu Lebdeh (co-advised with Davide Brunelli), *Topic: Spiking Neural Networks*
-- Hassan Mir (co-advised with Giovanni Iacca)
-
-#### Master Students
-- Pietro Farina, *Model Compression for TinyML*
-
-
-#### Alumni
 - Alessandro Torissi (co-advised with Davide Brunelli), PhD,  *Ultra Low Power Electronics and Communication Methods for Energy-Harvesting Batteryless IoT Devices* 2023
 - Eren Yıldız, PhD, *Systems Support for Intermittent Computing* 2023
 - Çağlar Durmaz (co-advised with Geylani Kardas), PhD, *A programming language and virtual machine for developing intermittently powered systems* 2022
 - Michele Pio Fragasso (co-advised with Davide Brunelli) MSc, *Development of an Intermittent Computing Architecture for Machine Learning on Configurable Platform*, 2023
 - Luca Caronti (co-advised with Davide Brunelli), MSc, *Adaptive Hardware Accelerated Intermittent Deep Neural Network Inference*, 2022
 - Murat Mülayim, MSc, *Fast and bug-free application development for intermittently-powered devices*, 2020
+- Vito Koortbek (co-advised with Przemyslaw Pawelczak), MSc, *Dependable Dynamic Checkpoints for Batteryless Devices*, 2019
+- Michel Jansen (co-advised with Przemyslaw Pawelczak), MSc, *Backscatter Tag-to-Tag Network* 2017
 
 ---
 
