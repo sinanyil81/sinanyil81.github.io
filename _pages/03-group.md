@@ -8,9 +8,9 @@ horizontal: false
 
 Welcome to the Embedded and Networked Things (ENT-Lab) Group!
 
-<img align="left" width="200px" src="assets/img/setup.png"/> We aim to explore the cross-cutting research problems and gaps concerning the hardware and software for networked embedded systems with extreme resource and energy constraints. These systems will significantly impact how we live and work in the near future since there will be billions of interconnected devices. This situation will create a significant demand for more bandwidth, low-power operation, sustainability, confidentiality, security, dependability, and many more. We focus on designing systems by considering these requirements and working on the problems at the intersection of embedded systems, computer architectures, energy harvesting, the internet of things, low-power wireless protocols, sensor networks, distributed algorithms, operating systems/run-times, and machine learning. 
+<img align="left" width="200px" src="/assets/img/setup.png"/> We aim to explore the cross-cutting research problems and gaps concerning the hardware and software for networked embedded systems with extreme resource and energy constraints. These systems will significantly impact how we live and work in the near future since there will be billions of interconnected devices. This situation will create a significant demand for more bandwidth, low-power operation, sustainability, confidentiality, security, dependability, and many more. We focus on designing systems by considering these requirements and working on the problems at the intersection of embedded systems, computer architectures, energy harvesting, the internet of things, low-power wireless protocols, sensor networks, distributed algorithms, operating systems/run-times, and machine learning. 
 
-> Please contact [Kasim Sinan Yildirim](https://sinanyil81.github.io) for thesis and collaboration opportunities.
+Please contact [`Kasim Sinan Yildirim`](https://sinanyil81.github.io) for thesis and collaboration opportunities.
 
 <img align="right" width="200px" src="/assets/img/logo.png" /> ENT-Lab offers state-of-the-art microcontroller-based computing platforms,  field-programmable gate arrays (FPGAs), sensors, wireless modules, energy harvesting kits, and measurement tools to create testbeds for experimental evaluations and demonstrate real-world applications.
 
@@ -21,6 +21,10 @@ Our current research activities include:
 - Architectural (hardware) support for intermittent computing
 - Batteryless and intermittent networking
 - Tiny machine learning on the batteryless edge.
+
+### Open Source Releases
+
+Please check our [`open-source projects`](https://tinysystems.github.io/).
 
 ### PhD Candidates
 - [Khakim Akhunov](https://webapps.unitn.it/du/en/Persona/PER0230856), Systems Support for Multicore Intermittent Computing
