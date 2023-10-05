@@ -72,8 +72,16 @@ Please check my [**`GoogleScholar`**](https://scholar.google.com.tr/citations?hl
 - `Organizer`, TPC 2017 – The IDEA League Doctoral School on Transiently Powered Computing
 - `Publicity Chair`, HLPC2016 (Hilariously Low-Power Computing) Workshop unde ASPLOS
 
-#### Reviewer (selected)
+### Project Proposal Review
+- External Reviewer, Chist-Era Call, 2020
+- Panel Member, Academy of Finland, Helsinki (Beyond 5G systems review panel), 2017
+- Panel member for the evaluation of scientific project proposals for TÜBİTAK (Turkish Research Foundation)
+- Reviewer for the evaluation of KOSGEB (Small and Medium Enterprises Development Organization) projects
+
+#### Journal Reviewer (selected)
 - Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, ACM Transactions on Embedded Computing Systems, ACM Transactions on Sensor Networks, Transactions on Cyber-Physical Systems, IEEE Internet of Things Journal, IEEE Sensors Journal, IEEE Transactions on Wireless Communications, IEEE Communications Magazine, IEEE Communications Letters, IEEE Wireless Communications Letters, IEEE Transactions on Control of Network Systems, IEEE Journal of Radio Frequency Identification, IEEE Transactions on Parallel and Distributed Systems
+
+
 
 ### Teaching
 
