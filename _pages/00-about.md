@@ -19,12 +19,16 @@ social: true  # includes social icons at the bottom of the page
 
 Welcome to my homepage! I am currently an associate professor at the [University of Trento](http://unitn.it/), [Department of Information Engineering and Computer Science](http://disi.unitn.it/). I created this website to share the output of my studies and be reachable. I am a member of [HIPEAC](https://www.hipeac.net/) community.
 
-I am interested in the research problems of low-power and networked embedded sensing systems. Together with my learning partners, we study sensor networks, wireless protocols, self-organizing and distributed algorithms, operating systems/run-times, architectural support, digital design, intermittent computing, and tiny machine learning. 
+Prior to Prior to joining the University of Trento, I was an assistant professor at the [Department of Computer Engineering](https://bilmuh.ege.edu.tr/eng-/Homepage.html) at Ege University, Turkiye. Between 2015 and 2017, I was a postdoctoral researcher at the [Embedded and Networked Systems Group](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/embedded-systems) at Delft University of Technology, the Netherlands. I got my PhD in Computer Science and Engineering from [Ege University](https://bilmuh.ege.edu.tr/eng-/Homepage.html), Turkiye, in 2012.  I was an embedded software engineer at Beko Electronics (Grundig) R&D, Turkiye between 2003 and 2007.
 
-[Email me](mailto:kasimsinan.yildirim@unitn.it) if you are interested in doing research on these topics.  
-- Open positions for postdocs and PhDs.
-- I have several master thesis projects.
-- I have also thesis/internship projects for undergraduate students. 
+I am interested in the research problems of low-power and networked embedded sensing systems. Together with my learning partners, we study sensor networks, wireless protocols, self-organizing and distributed algorithms, operating systems/run-times, architectural support, digital design, intermittent computing, and tiny machine learning.
+
+``
+[Email me](mailto:kasimsinan.yildirim@unitn.it) if you are interested in doing research with me. I have:  
+- Open positions for postdocs and PhDs; 
+- Several master thesis projects; and 
+- Thesis topics and internship projects for undergraduate students.
+``
 
 You can check [**`ENT-Lab Research Group`**](https://tinysystems.github.io/) to see our software releases.
 
