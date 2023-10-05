@@ -34,7 +34,7 @@ You can check [**ENT-Lab Research Group**](https://tinysystems.github.io/) to se
 
 ### Selected Publications
 
-Please check my [**GoogleScholar**](https://scholar.google.com.tr/citations?hl=tr&user=LXUvnL0AAAAJ&view_op=list_works&sortby=pubdate) profile for a full list of publications
+Please check my [`**GoogleScholar**`](https://scholar.google.com.tr/citations?hl=tr&user=LXUvnL0AAAAJ&view_op=list_works&sortby=pubdate) profile for a full list of publications
 
 - Efficient and Safe I/O Operations for Intermittent Systems, Yildiz, Eren, Ahmed, Saad, Islam, Bashima, Hester, Josiah, and Yildirim, Kasim Sinan, *`EuroSys’23`*
 - Protean: An Energy-Efficient and Heterogeneous Platform for Adaptive and Hardware-Accelerated Battery-free Computing, Bakar, Abu, Goel, Rishabh, Winkel, Jasper, Huang, Jason, Ahmed, Saad, Islam, Bashima, Pawelczak, Przemyslaw,  Yildirim, Kasim Sinan, and Hester, Josiah *`ACM SenSys’22`*
