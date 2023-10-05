@@ -4,7 +4,7 @@ permalink: /publications/
 title: Publications
 description: 
 years: [2022, 2021, 2020, 2019, 2018, 2017,2016,2015,2014,2013,2012,2011,2010, 2009,2008, 2007]
-nav: true
+nav: false
 ---
 
 Please check my **[GoogleScholar profile](https://scholar.google.com.tr/citations?hl=tr&user=LXUvnL0AAAAJ&view_op=list_works&sortby=pubdate)** for a full list of publications.
