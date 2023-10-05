@@ -21,16 +21,14 @@ Welcome to my homepage! I am currently an associate professor at the [University
 
 Prior to Prior to joining the University of Trento, I was an assistant professor at the [Department of Computer Engineering](https://bilmuh.ege.edu.tr/eng-/Homepage.html) at Ege University, Turkiye. Between 2015 and 2017, I was a postdoctoral researcher at the [Embedded and Networked Systems Group](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/embedded-systems) at Delft University of Technology, the Netherlands. I got my PhD in Computer Science and Engineering from [Ege University](https://bilmuh.ege.edu.tr/eng-/Homepage.html), Turkiye, in 2012.  I was an embedded software engineer at Beko Electronics (Grundig) R&D, Turkiye between 2003 and 2007.
 
-I am interested in the research problems of low-power and networked embedded sensing systems. Together with my learning partners, we study sensor networks, wireless protocols, self-organizing and distributed algorithms, operating systems/run-times, architectural support, digital design, intermittent computing, and tiny machine learning.
+I am interested in the research problems of low-power and networked embedded sensing systems. Together with my learning partners, we study sensor networks, wireless protocols, self-organizing and distributed algorithms, operating systems/run-times, architectural support, digital design, intermittent computing, and tiny machine learning. You can check [**ENT-Lab Research Group**](https://tinysystems.github.io/) to see our software releases.
 
-```
 [Email me](mailto:kasimsinan.yildirim@unitn.it) if you are interested in doing research with me. I have:  
+```
 - Open positions for postdocs and PhDs; 
 - Several master thesis projects; and 
 - Thesis topics and internship projects for undergraduate students.
 ```
-
-You can check [**ENT-Lab Research Group**](https://tinysystems.github.io/) to see our software releases.
 
 ### Selected Publications
 
@@ -50,7 +48,6 @@ Please check my [**`GoogleScholar`**](https://scholar.google.com.tr/citations?hl
 - Multi-hop backscatter tag-to-tag networks, Majid, Amjad Yousef, Jansen, Michel, Delgado, Guillermo Ortas,  *Yildirim, Kasim Sinan*, and Pawełłzak, Przemysław, *`Infocom 2019`*
 - InK: Reactive Kernel for Tiny Batteryless Sensors, Yıldırım, Kasım Sinan, Majid, Amjad Yousef, Patoukas, Dimitris, Schaper, Koen, Pawełczak, Przemysław, and Hester, Josiah, *`SenSys'18`*
     
-
 ### Supervised Thesis
 
 - Alessandro Torissi (co-advised with Davide Brunelli), PhD,  *Ultra Low Power Electronics and Communication Methods for Energy-Harvesting Batteryless IoT Devices* 2023
@@ -67,30 +64,16 @@ Please check my [**`GoogleScholar`**](https://scholar.google.com.tr/citations?hl
 - `Best Paper Award`, *Self Adaptive Safe Provisioning of Wireless Power using DCOPs* SASO'17, 
 - `Supervisor Award`, 3rd Place, Undergraduate Students Software Projects Competition TÜBİTAK (Turkish Research Foundation)-BİDEB 2242, 2014 
 
-### Academic Service
+### Program Committee (selected)
+- EMSOFT (2023), EnsSys (2023,2022,2021,2020), IGSCC (2023), IEEE RFID (2023, 2022, 2021, 2020)
 
-#### Technical Program Committee (selected)
-- EMSOFT (2023)
-- EnsSys (2021,2022,2023)
-- IGSCC (2023)
-- IEEE RFID (2020, 2021, 2022, 2023)
+### Organization 
+- `Technical Program Chair`, 2022 IEEE INTERNATIONAL WORKSHOP ON Metrology for Industry 4.0 and IoT
+- `Organizer`, TPC 2017 – The IDEA League Doctoral School on Transiently Powered Computing
+- `Publicity Chair`, HLPC2016 (Hilariously Low-Power Computing) Workshop unde ASPLOS
 
 #### Reviewer (selected)
-- Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies
-- ACM Transactions on Embedded Computing Systems
-- ACM Transactions on Sensor Networks
-- Transactions on Cyber-Physical Systems
-- IEEE Internet of Things Journal
-- IEEE Sensors Journal
-- IEEE Transactions on Wireless Communications
-- IEEE Communications Magazine
-- IEEE Communications Letters
-- IEEE Wireless Communications Letters
-- IEEE Transactions on Control of Network Systems
-- IEEE Journal of Radio Frequency Identification
-- IEEE Transactions on Parallel and Distributed Systems
-
----
+- Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, ACM Transactions on Embedded Computing Systems, ACM Transactions on Sensor Networks, Transactions on Cyber-Physical Systems, IEEE Internet of Things Journal, IEEE Sensors Journal, IEEE Transactions on Wireless Communications, IEEE Communications Magazine, IEEE Communications Letters, IEEE Wireless Communications Letters, IEEE Transactions on Control of Network Systems, IEEE Journal of Radio Frequency Identification, IEEE Transactions on Parallel and Distributed Systems
 
 ### Teaching
 
