@@ -51,11 +51,11 @@ Please check our [`open-source projects`](https://tinysystems.github.io/).
 |---|
 |Distributed Machine Learning Self-Learning Pipeline for Edge Sensing Applications, [Daniele Stella]() |
 |Design and Implementation of a Secure Firmware-Over-The-Air System using Bluetooth Low Energy, [Francesco Olivieri]() |
-|The Forward-Forward Algorithm for Memory-Constrained Devices in a federated context, [Federico Rubbo]() |
+|The Forward-Forward Algorithm for Memory-Constrained Devices in a federated context, [Federico Rubbi]() (co-supervised with [Giovanni Iacca](https://sites.google.com/site/giovanniiacca/)) |
 |Embedded Perceptual Image Hash Application of perceptual hash functions for detecting changes in a sequence of images, [Roberto Lorenzon]() |
 |Tiny Federated Learning on embedded systems, [Alberto Gusmeroli]() |
 |Architectural Assessment - Transfer of an Embedded SW Background Task into a new Architectural Concept, [Damoano Bertolini]() |
-|Neuromorphic Implementation of a Spiking Neural Network on FPGA, [Roberto Giordano]() |
+|Neuromorphic Implementation of a Spiking Neural Network on FPGA, [Roberto Giordano]() (co-supervised with [Roberto Passarone](https://webapps.unitn.it/du/it/Persona/PER0000817/Curriculum))|
 |A Comparative Study of K-nn Algorithms for Memory-Constrained Devices, [Pietro Farina]() |
 |Embedding Semi-Supervised Learning on Resource-Constrained platforms, Application of machine learning technique on energy harvesting devices, [Mateo Myftaraj]() |
 | Runtime Monitoring for Intermittent Computing, [Lorenzo Antonio Riva]() (co-supervised with [Ivan Kurtev]() and [Arda Goknil]()) |
