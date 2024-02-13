@@ -34,6 +34,7 @@ I am interested in the research problems of low-power and networked embedded sen
 
 Please check my [**`GoogleScholar`**](https://scholar.google.com.tr/citations?hl=tr&user=LXUvnL0AAAAJ&view_op=list_works&sortby=pubdate) profile for a full list of publications
 
+- Adaptable Runtime Monitoring for Intermittent Systems, Yildiz, Eren, Akhunov, Khakim, Riva, Lorenzo Antonio, Goknil, Arda, Kurtev, Ivan, and Yildirim, Kasim Sinan, *`EuroSys’24`*
 - Efficient and Safe I/O Operations for Intermittent Systems, Yildiz, Eren, Ahmed, Saad, Islam, Bashima, Hester, Josiah, and Yildirim, Kasim Sinan, *`EuroSys’23`*
 - Protean: An Energy-Efficient and Heterogeneous Platform for Adaptive and Hardware-Accelerated Battery-free Computing, Bakar, Abu, Goel, Rishabh, Winkel, Jasper, Huang, Jason, Ahmed, Saad, Islam, Bashima, Pawelczak, Przemyslaw,  Yildirim, Kasim Sinan, and Hester, Josiah *`ACM SenSys’22`*
 - MPI: Memory Protection for Intermittent Computing, Grisafi, Michele, Ammar, Mahmoud,  Yildirim, Kasim Sinan, and Crispo, Bruno, *`IEEE Transactions on Information Forensics and Security 2022`*
