@@ -33,21 +33,21 @@ I am interested in the research problems of low-power and networked embedded sen
 ### Selected Publications
 
 Please check my [**`GoogleScholar`**](https://scholar.google.com.tr/citations?hl=tr&user=LXUvnL0AAAAJ&view_op=list_works&sortby=pubdate) profile for a full list of publications.
-- The Internet of Batteryless Things, Ahmed, Saad, Bashima Islam, Kasim Sinan Yildirim, Marco Zimmerling, Przemysław Pawełczak, Muhammad Hamad Alizai, Brandon Lucia, Luca Mottola, Jacob Sorber, and Josiah Hester. *`Communications of the ACM`*  2024 
-- Adaptable Runtime Monitoring for Intermittent Systems, Yildiz, Eren, Akhunov, Khakim, Riva, Lorenzo Antonio, Goknil, Arda, Kurtev, Ivan, and Yildirim, Kasim Sinan *`EuroSys’24`* 
-- Efficient and Safe I/O Operations for Intermittent Systems, Yildiz, Eren, Ahmed, Saad, Islam, Bashima, Hester, Josiah, and Yildirim, Kasim Sinan, *`EuroSys’23`*
-- Protean: An Energy-Efficient and Heterogeneous Platform for Adaptive and Hardware-Accelerated Battery-free Computing, Bakar, Abu, Goel, Rishabh, Winkel, Jasper, Huang, Jason, Ahmed, Saad, Islam, Bashima, Pawelczak, Przemyslaw,  Yildirim, Kasim Sinan, and Hester, Josiah *`ACM SenSys’22`*
-- MPI: Memory Protection for Intermittent Computing, Grisafi, Michele, Ammar, Mahmoud,  Yildirim, Kasim Sinan, and Crispo, Bruno, *`IEEE Transactions on Information Forensics and Security 2022`*
-- AdaMICA: Adaptive Multicore Intermittent Computing, Akhunov, Khakim, and Yildirim, Kasim Sinan, *`UbiComp'22`* (IMWUT)
-- Immortal Threads: Multithreaded Event-driven Intermittent Computing on Ultra-Low-Power Microcontrollers, Yıldız, Eren, Chen, Lijun, and Yıldırım, Kasim Sinan, *`OSDI'22`*
-- ETAP: Energy-aware Timing Analysis of Intermittent Programs, Erata, Ferhat, Yıldız, Eren, Goknil, Arda, Yıldırım, Kasım Sinan, Piskac, Ruzica, Szefer, Jakub, and Sezgin, Gökçin, *`ACM Transactions on Embedded Computing Systems (TECS)`* Jul 2022
-- Virtualizing Intermittent Computing, Durmaz, Çağlar, Yıldırım, Kasım Sinan, and Kardas, Geylani, *`IEEE Internet of Things Journal`* Jul 2022
-- Reliable Transiently-Powered Communication, Torrisi, Alessandro, Yıldırım, Kasım Sinan, and Brunelli, Davide, *`IEEE Sensors Journal`* Jul 2022
-- REHASH: A Flexible, Developer Focused, Heuristic Adaptation Platform for Intermittently Powered Computing, Bakar, Abu, Ross, Alexander G,  *Yildirim, Kasim Sinan*, and Hester, Josiah *`ACM UbiComp'21`* (IMWUT) 
-- Reliable Timekeeping for Intermittent Computing, Winkel, Jasper, Delle Donne, Carlo,  Yildirim, Kasim Sinan, Pawełczak, Przemysław, and Hester, Josiah, *`ASPLOS'20`*
-- Time-sensitive Intermittent Computing Meets Legacy Software, Kortbeek, Vito,  Yildirim, Kasim Sinan, Bakar, Abu, Sorber, Jacob, Hester, Josiah, and Pawełczak, Przemysław, *`ASPLOS'20`*
-- Multi-hop backscatter tag-to-tag networks, Majid, Amjad Yousef, Jansen, Michel, Delgado, Guillermo Ortas,  *Yildirim, Kasim Sinan*, and Pawełłzak, Przemysław, *`Infocom 2019`*
-- InK: Reactive Kernel for Tiny Batteryless Sensors, Yıldırım, Kasım Sinan, Majid, Amjad Yousef, Patoukas, Dimitris, Schaper, Koen, Pawełczak, Przemysław, and Hester, Josiah, *`SenSys'18`*
+- Adaptable Runtime Monitoring for Intermittent Systems, Yildiz, Eren, Akhunov, Khakim, Riva, Lorenzo Antonio, Goknil, Arda, Kurtev, Ivan, and Yildirim, Kasim Sinan *`EuroSys’24`*
+- [The Internet of Batteryless Things](https://cacm.acm.org/research/the-internet-of-batteryless-things/), Ahmed, Saad, Bashima Islam, Kasim Sinan Yildirim, Marco Zimmerling, Przemysław Pawełczak, Muhammad Hamad Alizai, Brandon Lucia, Luca Mottola, Jacob Sorber, and Josiah Hester. *`Communications of the ACM`*  2024 
+- [Efficient and Safe I/O Operations for Intermittent Systems](https://dl.acm.org/doi/abs/10.1145/3552326.3587435), Yildiz, Eren, Ahmed, Saad, Islam, Bashima, Hester, Josiah, and Yildirim, Kasim Sinan, *`EuroSys’23`*
+- [Protean: An Energy-Efficient and Heterogeneous Platform for Adaptive and Hardware-Accelerated Battery-free Computing](https://dl.acm.org/doi/abs/10.1145/3560905.3568561), Bakar, Abu, Goel, Rishabh, Winkel, Jasper, Huang, Jason, Ahmed, Saad, Islam, Bashima, Pawelczak, Przemyslaw,  Yildirim, Kasim Sinan, and Hester, Josiah *`ACM SenSys’22`*
+- [MPI: Memory Protection for Intermittent Computing](https://ieeexplore.ieee.org/abstract/document/9905635), Grisafi, Michele, Ammar, Mahmoud,  Yildirim, Kasim Sinan, and Crispo, Bruno, *`IEEE Transactions on Information Forensics and Security 2022`*
+- [AdaMICA: Adaptive Multicore Intermittent Computing](https://dl.acm.org/doi/abs/10.1145/3550304), Akhunov, Khakim, and Yildirim, Kasim Sinan, *`UbiComp'22`* (IMWUT)
+- [Immortal Threads: Multithreaded Event-driven Intermittent Computing on Ultra-Low-Power Microcontrollers](https://ieeexplore.ieee.org/abstract/document/9760506), Yıldız, Eren, Chen, Lijun, and Yıldırım, Kasim Sinan, *`OSDI'22`*
+- [ETAP: Energy-aware Timing Analysis of Intermittent Programs](https://dl.acm.org/doi/full/10.1145/3563216), Erata, Ferhat, Yıldız, Eren, Goknil, Arda, Yıldırım, Kasım Sinan, Piskac, Ruzica, Szefer, Jakub, and Sezgin, Gökçin, *`ACM Transactions on Embedded Computing Systems (TECS)`* Jul 2022
+- [Virtualizing Intermittent Computing](https://ieeexplore.ieee.org/abstract/document/9778211), Durmaz, Çağlar, Yıldırım, Kasım Sinan, and Kardas, Geylani, *`IEEE Internet of Things Journal`* Jul 2022
+- [Reliable Transiently-Powered Communication](https://ieeexplore.ieee.org/abstract/document/9733918), Torrisi, Alessandro, Yıldırım, Kasım Sinan, and Brunelli, Davide, *`IEEE Sensors Journal`* Jul 2022
+- [REHASH: A Flexible, Developer Focused, Heuristic Adaptation Platform for Intermittently Powered Computing](https://dl.acm.org/doi/abs/10.1145/3478077), Bakar, Abu, Ross, Alexander G,  *Yildirim, Kasim Sinan*, and Hester, Josiah *`ACM UbiComp'21`* (IMWUT) 
+- [Reliable Timekeeping for Intermittent Computing](https://dl.acm.org/doi/abs/10.1145/3373376.3378464), Winkel, Jasper, Delle Donne, Carlo,  Yildirim, Kasim Sinan, Pawełczak, Przemysław, and Hester, Josiah, *`ASPLOS'20`*
+- [Time-sensitive Intermittent Computing Meets Legacy Software](https://dl.acm.org/doi/abs/10.1145/3373376.3378476), Kortbeek, Vito,  Yildirim, Kasim Sinan, Bakar, Abu, Sorber, Jacob, Hester, Josiah, and Pawełczak, Przemysław, *`ASPLOS'20`*
+- [Multi-hop backscatter tag-to-tag networks](https://ieeexplore.ieee.org/abstract/document/8737551), Majid, Amjad Yousef, Jansen, Michel, Delgado, Guillermo Ortas,  *Yildirim, Kasim Sinan*, and Pawełłzak, Przemysław, *`Infocom 2019`*
+- [InK: Reactive Kernel for Tiny Batteryless Sensors](https://dl.acm.org/doi/abs/10.1145/3274783.3274837), Yıldırım, Kasım Sinan, Majid, Amjad Yousef, Patoukas, Dimitris, Schaper, Koen, Pawełczak, Przemysław, and Hester, Josiah, *`SenSys'18`*
     
 ### Supervised Thesis
 
