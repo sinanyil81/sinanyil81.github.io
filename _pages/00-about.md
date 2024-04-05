@@ -30,7 +30,7 @@ I am interested in the research problems of low-power and networked embedded sen
 - Thesis topics and internship projects for undergraduate students.
 ```
 
-### Selected Publications
+### Publications (selected)
 
 Please check my [**`GoogleScholar`**](https://scholar.google.com.tr/citations?hl=tr&user=LXUvnL0AAAAJ&view_op=list_works&sortby=pubdate) profile for a full list of publications.
 - Adaptable Runtime Monitoring for Intermittent Systems, Yildiz, Eren, Akhunov, Khakim, Riva, Lorenzo Antonio, Goknil, Arda, Kurtev, Ivan, and Yildirim, Kasim Sinan *`EuroSys’24`*
@@ -48,10 +48,23 @@ Please check my [**`GoogleScholar`**](https://scholar.google.com.tr/citations?hl
 - [Time-sensitive Intermittent Computing Meets Legacy Software](https://dl.acm.org/doi/abs/10.1145/3373376.3378476), Kortbeek, Vito,  Yildirim, Kasim Sinan, Bakar, Abu, Sorber, Jacob, Hester, Josiah, and Pawełczak, Przemysław, *`ASPLOS'20`*
 - [Multi-hop backscatter tag-to-tag networks](https://ieeexplore.ieee.org/abstract/document/8737551), Majid, Amjad Yousef, Jansen, Michel, Delgado, Guillermo Ortas,  *Yildirim, Kasim Sinan*, and Pawełłzak, Przemysław, *`Infocom 2019`*
 - [InK: Reactive Kernel for Tiny Batteryless Sensors](https://dl.acm.org/doi/abs/10.1145/3274783.3274837), Yıldırım, Kasım Sinan, Majid, Amjad Yousef, Patoukas, Dimitris, Schaper, Koen, Pawełczak, Przemysław, and Hester, Josiah, *`SenSys'18`*
+
+### Program Committee (selected)
+- EMSOFT (2024, 2023), EnsSys (2023,2022,2021,2020), IGSCC (2023), IEEE RFID (2023, 2022, 2021, 2020)
     
+### Honours and Awards
+- `Best paper runner-up`, *Zero Power Energy-Aware Communication for Transiently-Powered Sensing Systems*, ENSsys'20. 
+- `Best Paper Award`, *Self Adaptive Safe Provisioning of Wireless Power using DCOPs* SASO'17, 
+- `Supervisor Award`, 3rd Place, Undergraduate Students Software Projects Competition TÜBİTAK (Turkish Research Foundation)-BİDEB 2242, 2014 
+
+### Organization 
+- *Technical Program Chair*, 2022 IEEE International Workshop on Metrology for Industry 4.0 and IoT
+- *Organizer*, TPC 2017 – The IDEA League Doctoral School on Transiently Powered Computing
+- *Publicity Chair*, HLPC2016 (Hilariously Low-Power Computing) Workshop unde ASPLOS
+
 ### Supervised Thesis
 
-- Alessandro Torissi (co-advised with Davide Brunelli), PhD,  *Ultra Low Power Electronics and Communication Methods for Energy-Harvesting Batteryless IoT Devices* 2023
+- Alessandro Torissi (co-advised with Davide Brunelli), Ph.D.,  *Ultra Low Power Electronics and Communication Methods for Energy-Harvesting Batteryless IoT Devices* 2023
 - Eren Yıldız, PhD, *Systems Support for Intermittent Computing* 2023
 - Çağlar Durmaz (co-advised with Geylani Kardas), PhD, *A programming language and virtual machine for developing intermittently powered systems* 2022
 - Michele Pio Fragasso (co-advised with Davide Brunelli) MSc, *Development of an Intermittent Computing Architecture for Machine Learning on Configurable Platform*, 2023
@@ -60,24 +73,9 @@ Please check my [**`GoogleScholar`**](https://scholar.google.com.tr/citations?hl
 - Vito Koortbek (co-advised with Przemyslaw Pawelczak), MSc, *Dependable Dynamic Checkpoints for Batteryless Devices*, 2019
 - Michel Jansen (co-advised with Przemyslaw Pawelczak), MSc, *Backscatter Tag-to-Tag Network* 2017
 
-### Honours and Awards
-- `Best paper runner-up`, *Zero Power Energy-Aware Communication for Transiently-Powered Sensing Systems*, ENSsys'20. 
-- `Best Paper Award`, *Self Adaptive Safe Provisioning of Wireless Power using DCOPs* SASO'17, 
-- `Supervisor Award`, 3rd Place, Undergraduate Students Software Projects Competition TÜBİTAK (Turkish Research Foundation)-BİDEB 2242, 2014 
-
-### Program Committee (selected)
-- EMSOFT (2023), EnsSys (2023,2022,2021,2020), IGSCC (2023), IEEE RFID (2023, 2022, 2021, 2020)
-
-### Organization 
-- *Technical Program Chair*, 2022 IEEE International Workshop on Metrology for Industry 4.0 and IoT
-- *Organizer*, TPC 2017 – The IDEA League Doctoral School on Transiently Powered Computing
-- *Publicity Chair*, HLPC2016 (Hilariously Low-Power Computing) Workshop unde ASPLOS
-
-### Project Proposal Review
+### Project Proposal Review (selected)
 - External Reviewer, Chist-Era Call, 2020
 - Panel Member, Academy of Finland, Helsinki (Beyond 5G systems review panel), 2017
-- Panel member for the evaluation of scientific project proposals for TÜBİTAK (Turkish Research Foundation)
-- Reviewer for the evaluation of KOSGEB (Small and Medium Enterprises Development Organization) projects
 
 ### Journal Reviewer (selected)
 - Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, ACM Transactions on Embedded Computing Systems, ACM Transactions on Sensor Networks, Transactions on Cyber-Physical Systems, IEEE Internet of Things Journal, IEEE Sensors Journal, IEEE Transactions on Wireless Communications, IEEE Communications Magazine, IEEE Communications Letters, IEEE Wireless Communications Letters, IEEE Transactions on Control of Network Systems, IEEE Journal of Radio Frequency Identification, IEEE Transactions on Parallel and Distributed Systems
