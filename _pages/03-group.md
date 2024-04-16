@@ -34,6 +34,8 @@ Please check our [`open-source projects`](https://tinysystems.github.io/).
 
 ### Internship/Master's Thesis
 - [Pietro Farina](), Model Compression for Tiny Machine Learning
+- [Stefano Sacchet](), Realt-time Scheduling on Intermittent Power
+- [Lorenzo Dongili](), Approximate Computing and CNNs
 
 ### External Collaborators
 - [Eren Yıldız](https://erenyildiz33.github.io/)
