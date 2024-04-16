@@ -30,6 +30,7 @@ Please check our [`open-source projects`](https://tinysystems.github.io/).
 - [Khakim Akhunov](https://webapps.unitn.it/du/en/Persona/PER0230856), Systems Support for Multicore Intermittent Computing
 - Muath Abu Lebdeh (co-supervised with Davide Brunelli), Spiking Neural Networks
 - Hassan Mir (co-supervised with Giovanni Iacca), Federated Learning
+- Renan Beran Kilic (co-supervised with Giovanni Iacca), Tiny Machine Learning
 
 ### Internship/Master's Thesis
 - [Pietro Farina](), Model Compression for Tiny Machine Learning
@@ -49,6 +50,7 @@ Please check our [`open-source projects`](https://tinysystems.github.io/).
 
 | Undergraduate Thesis |
 |---|
+|Model Compression for Tiny Machine Learning, [Pietro Farina]() |
 |Distributed Machine Learning Self-Learning Pipeline for Edge Sensing Applications, [Daniele Stella]() |
 |Design and Implementation of a Secure Firmware-Over-The-Air System using Bluetooth Low Energy, [Francesco Olivieri]() |
 |The Forward-Forward Algorithm for Memory-Constrained Devices in a federated context, [Federico Rubbi]() (co-supervised with [Giovanni Iacca](https://sites.google.com/site/giovanniiacca/)) |
