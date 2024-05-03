@@ -30,7 +30,7 @@ I am interested in the research problems of low-power and networked embedded sen
 - Thesis topics and internship projects for undergraduate students.
 ```
 
-<h3><font color="red"><b>Postdoc Position Available:</b></font></h3>  [**`Link for the call`**](https://www.hipeac.net/jobs/14258/postdoc-position-at-the-university-of-trento/)
+<h3><font color="red"><b>Postdoc Position Available:</b></font></h3>[**`Link for the call`**](https://www.hipeac.net/jobs/14258/postdoc-position-at-the-university-of-trento/)  
 
 ### Publications (selected)
 
