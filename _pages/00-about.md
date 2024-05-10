@@ -35,7 +35,8 @@ I am interested in the research problems of low-power and networked embedded sen
 ### Publications (selected)
 
 Please check my [**`GoogleScholar`**](https://scholar.google.com.tr/citations?hl=tr&user=LXUvnL0AAAAJ&view_op=list_works&sortby=pubdate) profile for a full list of publications.
-- Adaptable Runtime Monitoring for Intermittent Systems, Yildiz, Eren, Akhunov, Khakim, Riva, Lorenzo Antonio, Goknil, Arda, Kurtev, Ivan, and Yildirim, Kasim Sinan *`EuroSys’24`*
+- [Memory-efficient Energy-adaptive Inference of Pre-Trained Models on Batteryless Embedded Systems](), Farina, Pietro, Biswas, Subrata, Yildiz, Eren, Akhunov, Khakim, Ahmed, Saad, Bashima Islam, Kasim Sinan Yildirim *`EWSN’24`*
+- [Adaptable Runtime Monitoring for Intermittent Systems](https://dl.acm.org/doi/abs/10.1145/3627703.3650070), Yildiz, Eren, Akhunov, Khakim, Riva, Lorenzo Antonio, Goknil, Arda, Kurtev, Ivan, and Yildirim, Kasim Sinan *`EuroSys’24`*
 - [The Internet of Batteryless Things](https://cacm.acm.org/research/the-internet-of-batteryless-things/), Ahmed, Saad, Bashima Islam, Kasim Sinan Yildirim, Marco Zimmerling, Przemysław Pawełczak, Muhammad Hamad Alizai, Brandon Lucia, Luca Mottola, Jacob Sorber, and Josiah Hester. *`Communications of the ACM`*  2024 
 - [Efficient and Safe I/O Operations for Intermittent Systems](https://dl.acm.org/doi/abs/10.1145/3552326.3587435), Yildiz, Eren, Ahmed, Saad, Islam, Bashima, Hester, Josiah, and Yildirim, Kasim Sinan, *`EuroSys’23`*
 - [Protean: An Energy-Efficient and Heterogeneous Platform for Adaptive and Hardware-Accelerated Battery-free Computing](https://dl.acm.org/doi/abs/10.1145/3560905.3568561), Bakar, Abu, Goel, Rishabh, Winkel, Jasper, Huang, Jason, Ahmed, Saad, Islam, Bashima, Pawelczak, Przemyslaw,  Yildirim, Kasim Sinan, and Hester, Josiah *`ACM SenSys’22`*
