@@ -30,7 +30,7 @@ I am interested in the research problems of low-power and networked embedded sen
 - Thesis topics and internship projects for undergraduate students.
 ```
 
-<h3><font color="red"><b>Postdoc Position Available:</b></font></h3>[**`Link for the call`**](https://www.hipeac.net/jobs/14258/postdoc-position-at-the-university-of-trento/)  
+<!--- <h3><font color="red"><b>Postdoc Position Available:</b></font></h3>[**`Link for the call`**](https://www.hipeac.net/jobs/14258/postdoc-position-at-the-university-of-trento/) --> 
 
 ### Publications (selected)
 
@@ -53,20 +53,21 @@ Please check my [**`GoogleScholar`**](https://scholar.google.com.tr/citations?hl
 - [InK: Reactive Kernel for Tiny Batteryless Sensors](https://dl.acm.org/doi/abs/10.1145/3274783.3274837), Yıldırım, Kasım Sinan, Majid, Amjad Yousef, Patoukas, Dimitris, Schaper, Koen, Pawełczak, Przemysław, and Hester, Josiah, *`SenSys'18`*
 
 ### Program Committee (selected)
-- NSDI (2025), EMSOFT (2024, 2023), EnsSys (2023,2022,2021,2020), IGSCC (2023), IEEE RFID (2023, 2022, 2021, 2020)
+- NSDI (2025), EMSOFT (2024, 2023), EnsSys (2024, 2023,2022,2021,2020), IGSC (2024, 2023), IEEE RFID (2023, 2022, 2021, 2020)
+
+### Organization 
+- *Technical Program Chair*, 2022 IEEE International Workshop on Metrology for Industry 4.0 and IoT
+- *Organizer*, TPC 2017 – The IDEA League Doctoral School on Transiently Powered Computing
+- *Publicity Chair*, HLPC2016 (Hilariously Low-Power Computing) Workshop unde ASPLOS
     
 ### Honours and Awards
 - `Best paper runner-up`, *Zero Power Energy-Aware Communication for Transiently-Powered Sensing Systems*, ENSsys'20. 
 - `Best Paper Award`, *Self Adaptive Safe Provisioning of Wireless Power using DCOPs* SASO'17, 
 - `Supervisor Award`, 3rd Place, Undergraduate Students Software Projects Competition TÜBİTAK (Turkish Research Foundation)-BİDEB 2242, 2014 
 
-### Organization 
-- *Technical Program Chair*, 2022 IEEE International Workshop on Metrology for Industry 4.0 and IoT
-- *Organizer*, TPC 2017 – The IDEA League Doctoral School on Transiently Powered Computing
-- *Publicity Chair*, HLPC2016 (Hilariously Low-Power Computing) Workshop unde ASPLOS
-
 ### Supervised Thesis
-
+- Khakim Akhunov, Ph.D., *Enabling Full-Fledged Parallelism on Intermittently Powered Computing* 2024
+- Welid Ben Yahmed, (co-advised with Danilo Pietro Pau), M.Sc., *Tiny Machine Learning for Drift Compensation of Mems Pressure Sensors*
 - Alessandro Torissi (co-advised with Davide Brunelli), Ph.D.,  *Ultra Low Power Electronics and Communication Methods for Energy-Harvesting Batteryless IoT Devices* 2023
 - Eren Yıldız, PhD, *Systems Support for Intermittent Computing* 2023
 - Çağlar Durmaz (co-advised with Geylani Kardas), PhD, *A programming language and virtual machine for developing intermittently powered systems* 2022
@@ -84,7 +85,6 @@ Please check my [**`GoogleScholar`**](https://scholar.google.com.tr/citations?hl
 - Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, ACM Transactions on Embedded Computing Systems, ACM Transactions on Sensor Networks, Transactions on Cyber-Physical Systems, IEEE Internet of Things Journal, IEEE Sensors Journal, IEEE Transactions on Wireless Communications, IEEE Communications Magazine, IEEE Communications Letters, IEEE Wireless Communications Letters, IEEE Transactions on Control of Network Systems, IEEE Journal of Radio Frequency Identification, IEEE Transactions on Parallel and Distributed Systems
 
 ### Teaching
-
 - Low Power Embedded Systems (graduate)
 - Embedded Software for the Internet of Things
 - Computer Architectures
