@@ -26,8 +26,10 @@ Our current research activities include:
 
 Please check our [`open-source projects`](https://tinysystems.github.io/).
 
+### PostDocs & Visiting Scholars
+- Zehra Gulru Cam Taskiran, Near/In-Sensor Processing
+
 ### PhD Candidates
-- [Khakim Akhunov](https://webapps.unitn.it/du/en/Persona/PER0230856), Systems Support for Multicore Intermittent Computing
 - Muath Abu Lebdeh (co-supervised with Davide Brunelli), Spiking Neural Networks
 - Hassan Mir (co-supervised with Giovanni Iacca), Federated Learning
 - Renan Beran Kilic (co-supervised with Giovanni Iacca), Tiny Machine Learning
@@ -41,7 +43,7 @@ Please check our [`open-source projects`](https://tinysystems.github.io/).
 - [Eren Yıldız](https://erenyildiz33.github.io/)
 
 ## Past Members
-
+- [Khakim Akhunov](https://webapps.unitn.it/du/en/Persona/PER0230856), PhD Thesis, *Enabling Full-Fledged Parallelism on Intermittently Powered Computing* 
 - [Eren Yıldız](https://erenyildiz33.github.io/), PhD Thesis, *Systems Support for Intermittent Computing*  
 - [Çağlar Durmaz](https://www.researchgate.net/profile/Caglar_Durmaz), PhD Thesis (co-supervisor - together with [Ege-SERLab](http://akademik.ube.ege.edu.tr/serlab/)), *A programming language and virtual machine for developing intermittently powered systems*
 - [Luca Caronti](https://github.com/lucacaronti), MSc Thesis (co-supervised with [Davide Brunelli](https://webapps.unitn.it/du/en/Persona/PER0061723/Curriculum)), *Adaptive Hardware Accelerated Intermittent Deep Neural Network Inference* 
