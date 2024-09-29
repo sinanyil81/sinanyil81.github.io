@@ -34,7 +34,8 @@ I am interested in the research problems of low-power and networked embedded sen
 
 ### Publications (selected)
 
-Please check my [**`GoogleScholar`**](https://scholar.google.com.tr/citations?hl=tr&user=LXUvnL0AAAAJ&view_op=list_works&sortby=pubdate) profile for a full list of publications.
+Please check my [**`GoogleScholar`**](https://scholar.google.com.tr/citations?hl=tr&user=LXUvnL0AAAAJ&view_op=list_works&sortby=pubdate) profile for a full list of publications. 
+- [Fast-Inf: Ultra-Fast Embedded Intelligence on the Batteryless Edge](), Leonardo Custode, Farina, Pietro, Eren Yildiz, Renan Beran Kilic, Kasim Sinan Yildirim, Giovanni Iacca *`SenSys’24`* 
 - [Memory-efficient Energy-adaptive Inference of Pre-Trained Models on Batteryless Embedded Systems](), Farina, Pietro, Biswas, Subrata, Yildiz, Eren, Akhunov, Khakim, Ahmed, Saad, Bashima Islam, Kasim Sinan Yildirim *`EWSN’24`*
 - [Adaptable Runtime Monitoring for Intermittent Systems](https://dl.acm.org/doi/abs/10.1145/3627703.3650070), Yildiz, Eren, Akhunov, Khakim, Riva, Lorenzo Antonio, Goknil, Arda, Kurtev, Ivan, and Yildirim, Kasim Sinan *`EuroSys’24`*
 - [The Internet of Batteryless Things](https://cacm.acm.org/research/the-internet-of-batteryless-things/), Ahmed, Saad, Bashima Islam, Kasim Sinan Yildirim, Marco Zimmerling, Przemysław Pawełczak, Muhammad Hamad Alizai, Brandon Lucia, Luca Mottola, Jacob Sorber, and Josiah Hester. *`Communications of the ACM`*  2024 
