@@ -54,7 +54,7 @@ Please check my [**`GoogleScholar`**](https://scholar.google.com.tr/citations?hl
 - [InK: Reactive Kernel for Tiny Batteryless Sensors](https://dl.acm.org/doi/abs/10.1145/3274783.3274837), Yıldırım, Kasım Sinan, Majid, Amjad Yousef, Patoukas, Dimitris, Schaper, Koen, Pawełczak, Przemysław, and Hester, Josiah, *`SenSys'18`*
 
 ### Program Committee (selected)
-- DATE (2025), NSDI (2025), EMSOFT (2024, 2023), EnsSys (2024, 2023,2022,2021,2020), IGSC (2024, 2023), IEEE RFID (2023, 2022, 2021, 2020)
+- EWSN (2025), MobiSys (2025), DATE (2025), NSDI (2025), EMSOFT (2024, 2023), EnsSys (2024, 2023,2022,2021,2020), IGSC (2024, 2023), IEEE RFID (2023, 2022, 2021, 2020)
 
 ### Organization 
 - *Publicity Chair*, MobiSys 2025 
