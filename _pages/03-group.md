@@ -27,27 +27,30 @@ Our current research activities include:
 Please check our [`open-source projects`](https://tinysystems.github.io/).
 
 ### PostDocs & Visiting Scholars
+- Gaosheng Liu, Batteryless Networking and Intermittent Computing
 - Zehra Gulru Cam Taskiran, Near/In-Sensor Processing
 
 ### PhD Candidates
-- Muath Abu Lebdeh (co-supervised with Davide Brunelli), Spiking Neural Networks
-- Hassan Mir (co-supervised with Giovanni Iacca), Federated Learning
-- Renan Beran Kilic (co-supervised with Giovanni Iacca), Tiny Machine Learning
+- [Muath Abu Lebdeh]() (co-supervised with Davide Brunelli), Spiking Neural Networks
+- [Hassan Mir]() (co-supervised with Giovanni Iacca), Federated Learning
+- [Renan Beran Kilic]() (co-supervised with Giovanni Iacca), Tiny Machine Learning
 
 ### Internship/Master's Thesis
 - [Pietro Farina](), Model Compression for Tiny Machine Learning
-- [Stefano Sacchet](), Realt-time Scheduling on Intermittent Power
-- [Lorenzo Dongili](), Approximate Computing and CNNs
+- 
 
 ### External Collaborators
-- [Eren Yıldız](https://erenyildiz33.github.io/)
+- [Eren Yıldız](https://erenyildiz33.github.io/) 
 
 ## Past Members
-- [Khakim Akhunov](https://webapps.unitn.it/du/en/Persona/PER0230856), PhD Thesis, *Enabling Full-Fledged Parallelism on Intermittently Powered Computing* 
-- [Eren Yıldız](https://erenyildiz33.github.io/), PhD Thesis, *Systems Support for Intermittent Computing*  
-- [Çağlar Durmaz](https://www.researchgate.net/profile/Caglar_Durmaz), PhD Thesis (co-supervisor - together with [Ege-SERLab](http://akademik.ube.ege.edu.tr/serlab/)), *A programming language and virtual machine for developing intermittently powered systems*
-- [Luca Caronti](https://github.com/lucacaronti), MSc Thesis (co-supervised with [Davide Brunelli](https://webapps.unitn.it/du/en/Persona/PER0061723/Curriculum)), *Adaptive Hardware Accelerated Intermittent Deep Neural Network Inference* 
-- [Murat Mülayim](https://www.linkedin.com/in/mulayimmurat/), MSc Thesis, *Fast and bug-free application development for intermittently-powered devices*
+- [Khakim Akhunov](), PhD Thesis, *Enabling Full-Fledged Parallelism on Intermittently Powered Computing* 2024
+- [Eren Yıldız](https://erenyildiz33.github.io/), PhD Thesis, *Systems Support for Intermittent Computing* 2024 
+- [Welid Ben Yahmed](), MSc Thesis (co-supervised with Danilo Pau), *Tiny Machine Learning for Drift Compensation of MEMS Pressure Sensors* 2024
+- [Muhammad Waseem](), MSc Thesis, *Gaussian Mixture Model Classification on Embedded Devices* 2024
+- [Michele Pio Fragasso](), MSc Thesis (co-supervised with [Davide Brunelli](https://webapps.unitn.it/du/en/Persona/PER0061723/Curriculum)), *Development of an Intermittent Computing Architecture for Machine Learning on Configurable Platform* 2023
+- [Çağlar Durmaz](https://www.researchgate.net/profile/Caglar_Durmaz), PhD Thesis (co-supervisor - together with [Ege-SERLab](http://akademik.ube.ege.edu.tr/serlab/)), *A programming language and virtual machine for developing intermittently powered systems* 2022
+- [Luca Caronti](https://github.com/lucacaronti), MSc Thesis (co-supervised with [Davide Brunelli](https://webapps.unitn.it/du/en/Persona/PER0061723/Curriculum)), *Adaptive Hardware Accelerated Intermittent Deep Neural Network Inference* 2022
+- [Murat Mülayim](https://www.linkedin.com/in/mulayimmurat/), MSc Thesis, *Fast and bug-free application development for intermittently-powered devices* 2020
 
 ## Visitors
 - [Enes Tarik Kucukgorur]() (Erasmus Intern, Yildiz Technical University, Turkey)
