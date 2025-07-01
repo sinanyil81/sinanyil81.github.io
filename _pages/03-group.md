@@ -27,8 +27,8 @@ Our current research activities include:
 Please check our [`open-source projects`](https://tinysystems.github.io/).
 
 ### PostDocs & Visiting Scholars
-- Gaosheng Liu, Batteryless Networking and Intermittent Computing
-- Zehra Gulru Cam Taskiran, Near/In-Sensor Processing
+- [Gaosheng Liu](https://lgs001elite.github.io/), Batteryless Networking and Intermittent Computing
+- [Zehra Gulru Cam Taskiran](), Near/In-Sensor Processing
 
 ### PhD Candidates
 - [Muath Abu Lebdeh]() (co-supervised with Davide Brunelli), Spiking Neural Networks
