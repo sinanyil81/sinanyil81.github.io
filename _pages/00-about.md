@@ -17,11 +17,9 @@ social: true  # includes social icons at the bottom of the page
 ---
 ![me](assets/img/ksy.png){:style="float:left;margin-left:7px;margin-right: 7px;margin-top: 7px;"}
 
-Welcome to my homepage! I am currently an associate professor at the [University of Trento](http://unitn.it/), [Department of Information Engineering and Computer Science](http://disi.unitn.it/). I created this website to share the output of my studies and be reachable. I am a member of [HIPEAC](https://www.hipeac.net/) community.
+Welcome to my homepage! I am currently an associate professor at the [University of Trento](http://unitn.it/), [Department of Information Engineering and Computer Science](http://disi.unitn.it/). I created this website to share the output of my studies and be reachable. I am a member of [HIPEAC](https://www.hipeac.net/) community. I got my PhD in Computer Science and Engineering from Ege University, Turkiye, in 2012. Between 2015 and 2017, I was a postdoctoral researcher at the [Embedded and Networked Systems Group](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/embedded-systems) at Delft University of Technology, the Netherlands. I was an embedded software engineer at Beko Electronics (Grundig) R&D, Turkiye between 2003 and 2007.
 
-I got my PhD in Computer Science and Engineering from [Ege University](https://bilmuh.ege.edu.tr/eng-/Homepage.html), Turkiye, in 2012. Between 2015 and 2017, I was a postdoctoral researcher at the [Embedded and Networked Systems Group](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/embedded-systems) at Delft University of Technology, the Netherlands. I was an embedded software engineer at Beko Electronics (Grundig) R&D, Turkiye between 2003 and 2007.
-
-I am interested in the research problems of low-power and networked embedded sensing systems. Together with my learning partners, we study sensor networks, wireless protocols, self-organizing and distributed algorithms, operating systems/run-times, architectural support, digital design, intermittent computing, and tiny machine learning. You can check [**ENT-Lab Research Group**](https://tinysystems.github.io/) to see our software releases.
+I am interested in the research problems of low-power and networked embedded sensing systems. Together with my learning partners, we study sensor networks, wireless protocols, self-organizing and distributed algorithms, operating systems/runtimes, architectural support, digital design, intermittent computing, and tiny machine learning. You can check [ENT-Lab Research Group](https://tinysystems.github.io/) to see our software releases.
 
 [Email me](mailto:kasimsinan.yildirim@unitn.it) if you are interested in doing research with me. I have:  
 ```
@@ -54,7 +52,7 @@ Please check my [**`GoogleScholar`**](https://scholar.google.com.tr/citations?hl
 - [InK: Reactive Kernel for Tiny Batteryless Sensors](https://dl.acm.org/doi/abs/10.1145/3274783.3274837), Yıldırım, Kasım Sinan, Majid, Amjad Yousef, Patoukas, Dimitris, Schaper, Koen, Pawełczak, Przemysław, and Hester, Josiah, *`SenSys'18`*
 
 ### Program Committee (selected)
-- EWSN (2025), MobiSys (2025), DATE (2025), NSDI (2025), EMSOFT (2024, 2023), EnsSys (2024, 2023,2022,2021,2020), IGSC (2024, 2023), IEEE RFID (2023, 2022, 2021, 2020)
+- SenSys (2026), EWSN (2025), MobiSys (2025), DATE (2025), NSDI (2025), EMSOFT (2024, 2023), EnsSys (2024, 2023,2022,2021,2020), IGSC (2024, 2023), IEEE RFID (2023, 2022, 2021, 2020)
 
 ### Organization 
 - *Publicity Chair*, MobiSys 2025 
